@@ -1,0 +1,6 @@
+Русский Russian
+Чтобы установить мод для любых версий Windows CMD. перенесите папку с файлами ".cmd" в C:/Windows/System32 . Чтоб запустить команды откройте CMD введите x_version или v_version
+. Если начало с x это DirectX, Если с v это Vulkan Info !!!
+English Английский:
+To install the mod for any version of Windows CMD. move the folder with the ".cmd" files to C:/Windows/System32. To run commands open CMD enter x_version or v_version
+. If starting with x is DirectX, If starting with v is Vulkan Info!!!
